@@ -7,3 +7,8 @@ This project displays an interactive map using Leaflet that shows earthquake dat
 - **Interactive Map**: View a world map with the ability to switch between street and topographical views.
 - **Earthquake Data**: Display recent earthquake data with markers sized and colored based on magnitude and depth.
 - **Tectonic Plates**: Visualize tectonic plate boundaries.
+
+## The GitHub Page to view the Leaflet Map
+
+https://elizabethvandergrift.github.io/leaflet-challenge/
+
