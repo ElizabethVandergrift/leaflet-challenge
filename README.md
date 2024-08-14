@@ -8,6 +8,8 @@ This project displays an interactive map using Leaflet that shows earthquake dat
 - **Earthquake Data**: Display recent earthquake data with markers sized and colored based on magnitude and depth.
 - **Tectonic Plates**: Visualize tectonic plate boundaries.
 
+![image](https://github.com/user-attachments/assets/c1284577-3104-446e-8156-b96377b92fde)
+
 ## The GitHub Page to view the Leaflet Map
 
 https://elizabethvandergrift.github.io/leaflet-challenge/
